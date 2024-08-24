@@ -1,5 +1,4 @@
 # Jeeny-Graduate-Trainee-Program
-# Jeeny Graduate Trainee Program 
 
 ## Overview
 
